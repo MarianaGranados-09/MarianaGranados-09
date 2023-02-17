@@ -1,8 +1,7 @@
 - 💻 Hi, I’m Mariana Granados
 - I’m in my 7th semester at Universidad Autonoma de Queretaro (UAQ).
--  I’m interested in Web Development, Embedded Systems and Electronics.
--  I’m currently learning FPGA development with VHDL in my university course, as well as Java.
--  I’m looking to land an internship or my first job in any programming related field in a great company.
+- I’m interested in Web Development, Embedded Systems and Electronics.
+- I’m looking to land an internship or my first job in any programming related field in a great company.
 - 📧 You can contact me through my LinkedIn or my gmail. 
 
 <!---
